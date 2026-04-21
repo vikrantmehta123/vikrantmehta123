@@ -1,8 +1,5 @@
-👋 Hi, I'm Vikrant!
+## Hi, I'm Vikrant
 
-I like learning. I have a background in Psychology, Data Science and Programming, Finance, and History. 
-I am looking to expand this mosaic of knowledge that I am trying to build by exploring Engineering and Biology in the future. 
+Data Engineer at VuNet Systems. I like understanding how systems work. Currently, learning database internals from CMU 15-445 and 15-721. Trying to build an OLAP storage engine using Rust.
 
-In my free time, I read, play tennis, and fiddle with languages.
-
-I'm passionate about Data Science and Software Engineering, and I love automating the boring stuff.
+Kafka · ClickHouse · PostgreSQL · Rust (learning) · Python · Java
