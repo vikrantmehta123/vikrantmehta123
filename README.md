@@ -1,5 +1,5 @@
 ## Hi, I'm Vikrant
 
-Data Engineer at VuNet Systems. I like understanding how systems work. Currently, learning database internals from CMU 15-445 and 15-721. Trying to build an OLAP storage engine using Rust.
+Data Engineer at VuNet Systems. I have made code contributions to Apache DataFusion. 
 
-Kafka · ClickHouse · PostgreSQL · Rust · Python
+I like databases. I like to explain to myself how they work. So I maintain [TheWALStreetJournal](http://thewalstreetjournal.github.io/).
