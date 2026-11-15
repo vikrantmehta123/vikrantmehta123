@@ -10,6 +10,6 @@ I like databases. I enjoy understanding how they work under the hood, and I like
 
 - [Apache DataFusion — Query optimizer bug fix](https://github.com/apache/datafusion/pull/26995) (Merged)
 - [Apache DataFusion — TopK aggregation correctness](https://github.com/apache/datafusion/pull/27430)
-- [Apache DataFusion Ballista — Execution mode configuration](https://github.com/apache/datafusion-ballista/pull/2862)
+- [Apache DataFusion Ballista — Execution mode configuration](https://github.com/apache/datafusion-ballista/pull/2862) (Merged)
 
 I have a few more docs and first issue PRs.
